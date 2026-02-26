@@ -1,0 +1,29 @@
+# virtual environment
+venv/
+
+# data files (too large for GitHub)
+data/raw/
+data/processed/
+
+# model weights
+experiments/
+*.pth
+*.h5
+
+# python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# jupyter checkpoints
+.ipynb_checkpoints/
+
+# environment variables (API keys etc)
+.env
+
+# windows files
+Thumbs.db
+desktop.ini
+
+# VS Code settings
+.vscode/
