@@ -1,0 +1,10 @@
+2026-02-26 22:17:29,981 INFO    MainThread:26212 [wandb_setup.py:_flush():81] Current SDK version is 0.25.0
+2026-02-26 22:17:29,981 INFO    MainThread:26212 [wandb_setup.py:_flush():81] Configure stats pid to 26212
+2026-02-26 22:17:29,981 INFO    MainThread:26212 [wandb_setup.py:_flush():81] Loading settings from environment variables
+2026-02-26 22:17:29,981 INFO    MainThread:26212 [wandb_init.py:setup_run_log_directory():717] Logging user logs to c:\Users\Nikita_Sangwan\OneDrive\Documents\Dinesh Git\ai-image-detector\notebooks\wandb\run-20260226_221729-momxs33i\logs\debug.log
+2026-02-26 22:17:29,981 INFO    MainThread:26212 [wandb_init.py:setup_run_log_directory():718] Logging internal logs to c:\Users\Nikita_Sangwan\OneDrive\Documents\Dinesh Git\ai-image-detector\notebooks\wandb\run-20260226_221729-momxs33i\logs\debug-internal.log
+2026-02-26 22:17:29,981 INFO    MainThread:26212 [wandb_init.py:monkeypatch_ipython():636] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x0000029018797590>
+2026-02-26 22:17:29,983 INFO    MainThread:26212 [wandb_init.py:init():844] calling init triggers
+2026-02-26 22:17:29,983 INFO    MainThread:26212 [wandb_init.py:init():849] wandb.init called with sweep_config: {}
+config: {'model': 'resnet50', 'epochs': 5, 'batch_size': 32, 'lr': 0.0001, 'weight_decay': 1e-05, 'pretrained': True, '_wandb': {}}
+2026-02-26 22:17:29,983 INFO    MainThread:26212 [wandb_init.py:init():892] starting backend

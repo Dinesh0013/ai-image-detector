@@ -1,0 +1,28 @@
+_wandb:
+    value:
+        cli_version: 0.25.0
+        e:
+            180e9kvk9yrvl8r1p4t4ciycpqm479cu:
+                email: dinesh130613@gmail.com
+                executable: C:\Users\Nikita_Sangwan\OneDrive\Documents\Dinesh Git\ai-image-detector\venv\Scripts\python.exe
+                git:
+                    commit: 829ceeb23619158443a3a5a19d386ae928bed503
+                    remote: https://github.com/Dinesh0013/ai-image-detector.git
+                host: DESKTOP-IB7HU4N
+                os: Windows-10-10.0.26200-SP0
+                program: <python with no main file>
+                python: CPython 3.11.9
+                root: C:\Users\Nikita_Sangwan\OneDrive\Documents\Dinesh Git\ai-image-detector
+                startedAt: "2026-02-26T01:28:45.794309Z"
+                writerId: 180e9kvk9yrvl8r1p4t4ciycpqm479cu
+        m: []
+        python_version: 3.11.9
+        t:
+            "3":
+                - 2
+            "4": 3.11.9
+            "5": 0.25.0
+            "8":
+                - 3
+            "12": 0.25.0
+            "13": windows-amd64

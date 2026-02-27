@@ -1,0 +1,15 @@
+{
+  "os":  "Windows-10-10.0.26200-SP0",
+  "python":  "CPython 3.11.9",
+  "startedAt":  "2026-02-26T01:28:45.794309Z",
+  "program":  "<python with no main file>",
+  "git":  {
+    "remote":  "https://github.com/Dinesh0013/ai-image-detector.git",
+    "commit":  "829ceeb23619158443a3a5a19d386ae928bed503"
+  },
+  "email":  "dinesh130613@gmail.com",
+  "root":  "C:\\Users\\Nikita_Sangwan\\OneDrive\\Documents\\Dinesh Git\\ai-image-detector",
+  "host":  "DESKTOP-IB7HU4N",
+  "executable":  "C:\\Users\\Nikita_Sangwan\\OneDrive\\Documents\\Dinesh Git\\ai-image-detector\\venv\\Scripts\\python.exe",
+  "writerId":  "180e9kvk9yrvl8r1p4t4ciycpqm479cu"
+}
