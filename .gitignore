@@ -20,6 +20,7 @@ __pycache__/
 
 # environment variables (API keys etc)
 .env
+*.env
 
 # windows files
 Thumbs.db
