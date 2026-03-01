@@ -128,8 +128,8 @@ threadpoolctl==3.6.0
 tinycss2==1.4.0
 toml==0.10.2
 torch
-torchaudio==2.7.1+cu118
-torchvision==0.22.1+cu118
+torchaudio
+torchvision
 tornado==6.5.4
 tqdm==4.67.3
 traitlets==5.14.3
@@ -147,4 +147,5 @@ webcolors==25.10.0
 webencodings==0.5.1
 websocket-client==1.9.0
 widgetsnbextension==4.0.15
+
 
